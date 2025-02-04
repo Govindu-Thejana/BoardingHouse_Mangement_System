@@ -37,7 +37,3 @@ The **Boarding Place Management System** is a C++ application for students to se
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements.
 
-## 📞 Contact
-- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
-- 🔗 GitHub: [yourusername](https://github.com/yourusername)
-
